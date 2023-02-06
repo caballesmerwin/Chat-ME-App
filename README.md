@@ -4,3 +4,4 @@
 2. Open the server Integrated Terminal then run the file using "npm start"
 3. Open the public Integrated Terminal then run the file using "npm start"
 4. The application will open. To try the message feature, You can try opening another tab in Incognito mode with the same localhost:PORT
+https://github.com/wewinsss/Chat-App
